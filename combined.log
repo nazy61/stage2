@@ -151,3 +151,4 @@
 2024-07-07 19:44:53 [ERROR]: User does not exist
 2024-07-07 19:44:57 [INFO]: /auth/register
 2024-07-07 19:45:05 [INFO]: /auth/login
+2024-07-07 19:58:26 [INFO]: /auth/login
