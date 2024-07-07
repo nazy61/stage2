@@ -21,7 +21,7 @@ module.exports.get_user = async (req, res) => {
     logger.error(err);
     return res.status(400).json({
       status: "Bad Request",
-      message: err,
+      message: "Client Error",
       statusCode: 400,
     });
   }

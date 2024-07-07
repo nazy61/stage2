@@ -19,7 +19,7 @@ module.exports.hasAccess = async (req, res, next) => {
     }
 
     const userOrg = await UserOrganisations.findOne({
-      where: { orgId, userId },
+      where: { orgId: organisation.id, userId: user.id },
     });
 
     if (!userOrg) {
@@ -27,10 +27,10 @@ module.exports.hasAccess = async (req, res, next) => {
     }
     next();
   } catch (error) {
-    return res.status(401).json({
+    return res.status(400).json({
       status: "Bad Request",
-      message: error,
-      statusCode: 401,
+      message: "User does not have access to this organisation",
+      statusCode: 400,
     });
   }
 };

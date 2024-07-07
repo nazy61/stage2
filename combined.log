@@ -126,3 +126,24 @@
 2024-07-06 19:28:05 [INFO]: /api/organisations/0ce88c57-d5cd-4b67-b784-ab325dc8693f/users
 2024-07-06 19:29:12 [INFO]: /api/organisations/0ce88c57-d5cd-4b67-b784-ab325dc8693f/users
 2024-07-06 19:29:12 [ERROR]: User is already in the organisation
+2024-07-07 19:31:42 [INFO]: /auth/register
+2024-07-07 19:31:46 [INFO]: /auth/login
+2024-07-07 19:32:04 [INFO]: /api/user/02ec62db-66f6-4c8e-98ea-06f37445419d
+2024-07-07 19:32:05 [ERROR]: User does not exist
+2024-07-07 19:32:37 [INFO]: /api/user/c55049ac-f5fc-4e96-8114-62cf5ae42985
+2024-07-07 19:33:09 [INFO]: /api/user/02ec62db-66f6-4c8e-98ea-06f37445419d
+2024-07-07 19:33:09 [ERROR]: User does not exist
+2024-07-07 19:33:38 [INFO]: /api/organisations
+2024-07-07 19:33:46 [INFO]: /api/organisations/2e69972a-6ced-40a8-af55-7c4abb5061e3
+2024-07-07 19:34:57 [INFO]: /api/organisations/2e69972a-6ced-40a8-af55-7c4abb5061e3
+2024-07-07 19:35:19 [INFO]: /api/organisations/08714d92-a20b-4530-822e-96142f613e50
+2024-07-07 19:35:26 [INFO]: /api/organisations
+2024-07-07 19:35:33 [INFO]: /api/organisations/0ce88c57-d5cd-4b67-b784-ab325dc8693f/users
+2024-07-07 19:35:40 [INFO]: /api/organisations/0ce88c57-d5cd-4b67-b784-ab325dc8693f/users
+2024-07-07 19:36:13 [INFO]: /auth/register
+2024-07-07 19:36:25 [INFO]: /api/organisations/08714d92-a20b-4530-822e-96142f613e50/users
+2024-07-07 19:36:30 [INFO]: /api/organisations
+2024-07-07 19:36:42 [INFO]: /auth/login
+2024-07-07 19:36:54 [INFO]: /api/organisations
+2024-07-07 19:36:59 [INFO]: /auth/login
+2024-07-07 19:37:14 [INFO]: /api/organisations
