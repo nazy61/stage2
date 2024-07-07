@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "nazycodes",
-    "database": "stage2_development",
-    "host": "127.0.0.1",
+    "username": "postgres.clyybymuolkgxrzlbvat",
+    "password": "97K5pZb$aYXpTer",
+    "database": "postgres",
+    "host": "aws-0-us-west-1.pooler.supabase.com",
     "dialect": "postgres"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "postgres"
   },
   "production": {
-    "username": "postgres",
-    "password": "nazycodes",
-    "database": "stage2_production",
-    "host": "127.0.0.1",
+    "username": "postgres.clyybymuolkgxrzlbvat",
+    "password": "97K5pZb$aYXpTer",
+    "database": "postgres",
+    "host": "aws-0-us-west-1.pooler.supabase.com",
     "dialect": "postgres"
   }
 }

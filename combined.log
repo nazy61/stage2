@@ -147,3 +147,7 @@
 2024-07-07 19:36:54 [INFO]: /api/organisations
 2024-07-07 19:36:59 [INFO]: /auth/login
 2024-07-07 19:37:14 [INFO]: /api/organisations
+2024-07-07 19:44:53 [INFO]: /auth/login
+2024-07-07 19:44:53 [ERROR]: User does not exist
+2024-07-07 19:44:57 [INFO]: /auth/register
+2024-07-07 19:45:05 [INFO]: /auth/login
